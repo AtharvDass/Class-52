@@ -1,0 +1,23 @@
+.Oragami{
+    display: flex;
+    justify-content: space-around
+}
+img{
+    border:solid black ;
+    border-radius: 50px;
+}
+body{
+    background-color:#f7f2f2 ;
+    margin: 0px;
+}
+.Animals{
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width: 300px;
+    font-family: fantasy;
+}
+.Animals:hover{
+    transform:scale(1.2)
+}
